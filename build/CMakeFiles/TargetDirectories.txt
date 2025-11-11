@@ -1,0 +1,3 @@
+C:/Lafofore/1_sem/Calculator/build/CMakeFiles/calculator.dir
+C:/Lafofore/1_sem/Calculator/build/CMakeFiles/edit_cache.dir
+C:/Lafofore/1_sem/Calculator/build/CMakeFiles/rebuild_cache.dir

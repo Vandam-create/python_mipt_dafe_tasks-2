@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/Lafofore/1_sem/Calculator/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g -Wall -Wextra -pedantic -o CMakeFiles\\calculator.dir\\main.cpp.obj -c C:\\Lafofore\\1_sem\\Calculator\\main.cpp",
+  "file": "C:/Lafofore/1_sem/Calculator/main.cpp",
+  "output": "CMakeFiles/calculator.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Lafofore/1_sem/Calculator/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g -Wall -Wextra -pedantic -o CMakeFiles\\calculator.dir\\token_stream.cpp.obj -c C:\\Lafofore\\1_sem\\Calculator\\token_stream.cpp",
+  "file": "C:/Lafofore/1_sem/Calculator/token_stream.cpp",
+  "output": "CMakeFiles/calculator.dir/token_stream.cpp.obj"
+},
+{
+  "directory": "C:/Lafofore/1_sem/Calculator/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g -Wall -Wextra -pedantic -o CMakeFiles\\calculator.dir\\variable.cpp.obj -c C:\\Lafofore\\1_sem\\Calculator\\variable.cpp",
+  "file": "C:/Lafofore/1_sem/Calculator/variable.cpp",
+  "output": "CMakeFiles/calculator.dir/variable.cpp.obj"
+},
+{
+  "directory": "C:/Lafofore/1_sem/Calculator/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g -Wall -Wextra -pedantic -o CMakeFiles\\calculator.dir\\grammar.cpp.obj -c C:\\Lafofore\\1_sem\\Calculator\\grammar.cpp",
+  "file": "C:/Lafofore/1_sem/Calculator/grammar.cpp",
+  "output": "CMakeFiles/calculator.dir/grammar.cpp.obj"
+},
+{
+  "directory": "C:/Lafofore/1_sem/Calculator/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g -Wall -Wextra -pedantic -o CMakeFiles\\calculator.dir\\output.cpp.obj -c C:\\Lafofore\\1_sem\\Calculator\\output.cpp",
+  "file": "C:/Lafofore/1_sem/Calculator/output.cpp",
+  "output": "CMakeFiles/calculator.dir/output.cpp.obj"
+},
+{
+  "directory": "C:/Lafofore/1_sem/Calculator/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g -Wall -Wextra -pedantic -o CMakeFiles\\calculator.dir\\calculator.cpp.obj -c C:\\Lafofore\\1_sem\\Calculator\\calculator.cpp",
+  "file": "C:/Lafofore/1_sem/Calculator/calculator.cpp",
+  "output": "CMakeFiles/calculator.dir/calculator.cpp.obj"
+}
+]
